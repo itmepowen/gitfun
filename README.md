@@ -51,6 +51,7 @@ Debian-Based: APT also handles dependency resolution.
 9. Common Distributions:
 
 RPM-Based: Red Hat Enterprise Linux (RHEL), CentOS, Fedora.
+
 Debian-Based: Debian, Ubuntu, Linux Mint.
 
 
