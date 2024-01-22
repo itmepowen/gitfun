@@ -1,3 +1,3 @@
 Linux intro
 
-Everthin is a file in linux (including hardwares)
+Everthing is a file in linux (including hardwares)
