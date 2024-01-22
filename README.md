@@ -56,3 +56,27 @@ Debian-Based: Debian, Ubuntu, Linux Mint.
 
 
 In practice, both RPM-based and Debian-based systems are capable of running similar software and performing similar tasks. The choice between them often comes down to personal preference, familiarity, or specific requirements of the software you need to run. It's worth noting that many concepts and commands are similar between the two, and knowledge gained in one system is often transferable to the other.
+
+
+
+Important Directories
+
+. Home Directories: /root, /home/username
+
+. User Executable: /bin,  /usr/bin, /usr/local/bin
+
+. System Executables: /sbin, /usr/sbin, /usr/local/sbin
+
+.Other Mountopints: /media, /mnt
+
+.Configuration: /etc
+
+.Temporary Files: /tmp
+
+.Kernels and Bootloader: /boot
+
+.Server Data: /var, /srv
+
+.System Information: /proc, /sys
+
+.Shared Libraries: /lib, /usr/lib, /usr/local/lib
