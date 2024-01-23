@@ -2,7 +2,7 @@
 
 
 # install vim in centos
-
+sudo yum install vim -y
 
 # create a file using vim
 vim firstfile.txt
