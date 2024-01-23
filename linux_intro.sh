@@ -35,3 +35,7 @@ mv *.txt textdir/
 
 # remove all txt file inside folder
 rm -r /home/vagrant/textdir/*.txt
+
+# delete all files and folders
+rm -r *
+rm -rf *
