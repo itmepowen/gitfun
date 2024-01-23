@@ -67,16 +67,16 @@ Important Directories
 
 . System Executables: /sbin, /usr/sbin, /usr/local/sbin
 
-.Other Mountopints: /media, /mnt
+. Other Mountopints: /media, /mnt
 
-.Configuration: /etc
+. Configuration: /etc
 
-.Temporary Files: /tmp
+. Temporary Files: /tmp
 
-.Kernels and Bootloader: /boot
+. Kernels and Bootloader: /boot
 
-.Server Data: /var, /srv
+. Server Data: /var, /srv
 
-.System Information: /proc, /sys
+. System Information: /proc, /sys
 
-.Shared Libraries: /lib, /usr/lib, /usr/local/lib
+. Shared Libraries: /lib, /usr/lib, /usr/local/lib
