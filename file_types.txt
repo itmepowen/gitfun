@@ -1,0 +1,27 @@
+Everything is a file in linux
+
+show detailed list of folders
+ls -l
+it will sort the files alphabatically
+if we need sorting on basis of time we can use -lt 
+
+
+File type 
+
+regulat [-] regular files such as txt, executables.
+Directory [d] files that are lists of other files.
+Link [l] A shortcut that points to the location of the actual file.
+Special files [c] Mechanism used for input and output, such as files in /dev.
+Socket [s] A special file that provides inter-process networking protected by the FS's access control.
+Pipe P A special file that allows processes to communicate with each other without using network socket semantics.
+
+
+create link of any file using
+
+ln -s long_path_of_file  new_file
+
+example
+ln -s opt/dev/ops/devops/test/commands.txt cmds
+
+this will create a link for commands directrory
+for removing we can either use rm or 'unlink cmds' will remove it.
