@@ -1,0 +1,3 @@
+search in file 
+grep searchstring filename
+it will return line in which searchstring  is  present
