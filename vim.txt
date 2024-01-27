@@ -40,3 +40,8 @@ vim firstfile.txt
 
 # /name for search name in file
 # enter and press n to go to next search
+
+
+
+# search and replace word1 with word2
+:%s/word1/word2/g
