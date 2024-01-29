@@ -1,0 +1,30 @@
+Command 'lsl' not found, did you mean:
+  command 'lsd' from snap lsd (0.16.0)
+  command 'lsc' from deb livescript (1.6.1+dfsg-2)
+  command 'psl' from deb psl (0.21.0-1.2build2)
+  command 'lsh' from deb lsh-client (2.1-13)
+  command 'ls' from deb coreutils (8.32-4.1ubuntu1)
+  command 'wsl' from deb wsl (0.2.1-3)
+  command 'sl' from deb sl (5.02-1)
+  command 'gsl' from deb generator-scripting-language (4.1.5-3)
+  command 'lsw' from deb suckless-tools (46-1)
+  command 'lsm' from deb lsm (1.0.4-2)
+See 'snap info <snapname>' for additional versions.
+Command 'lsl' not found, did you mean:
+  command 'lsd' from snap lsd (0.16.0)
+  command 'psl' from deb psl (0.21.0-1.2build2)
+  command 'lsc' from deb livescript (1.6.1+dfsg-2)
+  command 'sl' from deb sl (5.02-1)
+  command 'gsl' from deb generator-scripting-language (4.1.5-3)
+  command 'wsl' from deb wsl (0.2.1-3)
+  command 'lsm' from deb lsm (1.0.4-2)
+  command 'lsw' from deb suckless-tools (46-1)
+  command 'lsh' from deb lsh-client (2.1-13)
+  command 'ls' from deb coreutils (8.32-4.1ubuntu1)
+See 'snap info <snapname>' for additional versions.
+dmo.txt
+file_types.txt
+filters and redirection.sh
+linux_intro.txt
+README.md
+vim.txt
