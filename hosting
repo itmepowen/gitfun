@@ -1,0 +1,8 @@
+In centos we need httpd
+In ubuntu we need apache2
+
+
+
+For logging inside, configure vagrant file for authenticating with ssh key.
+Adding a sample vagrant file please have a look for
+config.ssh.private_key_path = "/home/pawan/.ssh/id_rsa"
